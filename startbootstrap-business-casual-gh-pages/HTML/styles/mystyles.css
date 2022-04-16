@@ -1,0 +1,81 @@
+.body {
+    background-color: aliceblue;
+    border: solid aliceblue;
+    text-align: center;
+}
+
+.bold {
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkgrey;
+}
+
+.abouttitle {
+    color: rgb(51, 59, 100);
+}
+
+.accent {
+    border: solid rgb(99, 108, 155) 10px;
+    padding: 15px;
+    background:rgb(99, 108, 155);
+
+}
+
+.iframe-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 100%;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.introbox {
+    padding-bottom: 500px;
+    position: relative;
+    margin-right: 350px;
+    margin-left: 350px;
+    z-index: 1;
+    margin-top: 100px;
+
+}
+
+.emphasize {
+    color: rgb(99, 108, 155);
+    font-weight: bolder;
+}
+
+.contact {
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(109, 105, 105);
+    text-align: center;
+}
+
+.contactbox {
+    position: relative;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.infobox {
+    padding-right: 1000px;
+}
+
+.list {
+    text-align: left;
+}
+
+.video {
+    padding-right: 800px;
+    position: relative;
+}
+
+.box {
+    padding-left: 200px;
+}
+
+.newfooter {
+    text-align: center;
+    font-weight: bolder;
+}
